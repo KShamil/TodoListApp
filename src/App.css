@@ -1,0 +1,9 @@
+.light {
+    background-color: rgba(255, 253, 244, 0.96);
+    transition: 0.3s all;
+}
+
+.dark {
+    background-color: black;
+    transition: 0.3s all;
+}

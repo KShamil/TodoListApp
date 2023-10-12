@@ -1,0 +1,10 @@
+#hide {
+    transform: scale(0);
+    transition: 0.5s all;
+}
+
+
+#show {
+    transform: scale(1);
+    transition: 0.5s all;
+}
